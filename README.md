@@ -9,6 +9,6 @@
    <br><br>
    
    <!-- DATA -->
-   <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-menezes&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+   <img style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-menezes&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
 
 </div>
